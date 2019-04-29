@@ -2,13 +2,13 @@ A deliverable created during my role as a teaching assistant (TA) of the full-ti
 
 Below is the description of the deliverable:
 
-<b>Statistics and Politics - Deliverable 2</b>
+<b><u>Statistics and Politics - Deliverable 2</b></u>
 
-<i>Introduction</i>
+<u>Introduction</u>
 
 Now that we've gone through the process of cleaning our data and preparing it for analysis, we can begin the analysis process. See below for the key questions you'll be answering as part of this assignment.
 
-Analysis Part 2
+<u>Analysis Part 2</u>
 
 In this part we will perform some statistical analysis on the data.
 
@@ -18,7 +18,7 @@ In this part we will perform some statistical analysis on the data.
 
 3. Create 2 new dataframes: one containing only counties in California, the other containing only counties in Texas. Do the nationwide patterns that you found in the previous question still hold in these particular states? Which races remain positively (or negatively) correlated with a political party in each state? Are there races in California or Texas that have different correlations than the national trends?
 
-Analysis Part 3
+<u>Analysis Part 3</u>
 
 In this part we will perform some more advanced statistical analysis on the data.
 

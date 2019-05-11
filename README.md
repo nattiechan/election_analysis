@@ -1,1 +1,1 @@
-A deliverable created during my role as a teaching assistant (TA) of the full-time Data Science Diploma Program at BrainStation, in collaboration with my fellow TA, Sophie Johns.
+An analysis of the United States (US) Presidential Elections in 2008, 2012 and 2016 using 2016 US Census data.

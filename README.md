@@ -4,4 +4,4 @@
 
 In this project, we will examine correlations between Republican Vote Share and various demographic features from the provided Census Data of the United States. One of the feature of interests is Racial demographics, which we will examine the variable from both a state and national level. 
 
-Please proceed to the jupyter notebook (election_analysis.ipynb) for full analysis.
+Please proceed to the [jupyter notebook](https://github.com/nattiechan/election_analysis/blob/master/election_analysis.ipynb) for full analysis.
